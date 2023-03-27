@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+vendor/
+workspace/
+composer.phar
+composer.lock
