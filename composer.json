@@ -13,10 +13,8 @@
     "ext-mbstring": "*"
   },
   "autoload": {
-    "psr-4": {
-      "FurqanSiddiqui\\BIP39\\": [
-        "src"
-      ]
+    "psr-0" : {
+      "BIP\\" : "src"
     }
   },
   "minimum-stability": "dev"
