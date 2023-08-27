@@ -1,5 +1,6 @@
 {
   "name": "xiaohuasheng0x1/bip39-php",
+  "version": "1.0.0",
   "type": "library",
   "description": "BIP39 Mnemonics implementation in PHP",
   "keywords": [
